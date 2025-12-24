@@ -1,24 +1,27 @@
-## Hi there 👋
+# Hi, I’m Nova Smith 👋
 
-I'm Nova, a junior at Westfield State University double majoring in Mathematics and Computer Science. Currently, I’m deepening my skills in Java, Python, and R.
+I’m a **Computer Science + Math** double major (Honors student) with a soft spot for **clean code, sharp proofs, and practical data**. I like building things that are both *correct* and *useful*—and I’m especially interested in work that improves **accessibility** and **student support in STEM**.
 
-After graduation, I aim to pursue a career as a Software Engineer or Data Scientist.
+## What I’m into
+- **Software development** (my current post-grad direction)
+- **Data science / statistics** (long-term: master’s in stats, and I’m intrigued by computational modeling)
+- **Accessibility & ADA work** (I’m an ADA technician intern through my university’s IT/CIT department)
+- **Game dev experiments** (currently poking at **Godot** with a simple 2D platformer)
 
-My pronouns are He/They.
+## Stuff I’ve worked on / am working on
+- A **Java + MySQL** project with a layered architecture (DAO/POJOs/DB manager) for storing and querying **video game info**
+- **R** for applied statistics coursework (data wrangling + analysis + visualizations)
+- A small **Chebyshev’s Theorem demo** (because math deserves nice UI sometimes)
 
-<!--
+## Tools & skills
+- **Languages:** Java, Python, R, SQL  
+- **Also:** Git/GitHub, LaTeX (I’m picky about formatting), relational databases  
+- **Favorite tools:** JetBrains IDEs (yes, I’m that person)
 
-**NovaS007/NovaS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fun facts
+- Favorite game of all time: **Xenoblade Chronicles**
+- I’m a **Nintendo** enjoyer and I have an unreasonable appreciation for well-designed game systems (yes, even gacha mechanics)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+⭐ If you’re browsing my repos: expect a mix of **class projects, math/code experiments, and game-dev prototypes**.
